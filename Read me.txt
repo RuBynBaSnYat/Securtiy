@@ -1,0 +1,29 @@
+
+How to run My Project Using PHP and MySQL
+
+I have use php so make sure to install XAMMP and start the appache server for the local host and Mysql server of database.
+
+1. Download the zip file
+
+2. Extract the file and copy simple folder
+
+3.Paste inside root directory (for xampp: xampp\htdocc) example [C:\xampp\htdocs\paste the simple folder here]
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin) to run my file (http://localhost/simple)
+
+5. Create a database with name user_accounts
+   -insert table sign_up with id, username, email, password, reset_token, token_expiration 
+
+OR simply follow Number-& point
+
+6. Import User_account.sql file in mysql in XAMMP(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/simple (frontend)
+
+
+Login Details
+Login Details for admin : Rubyn Basnyat/London123@
+
+
+	
+
